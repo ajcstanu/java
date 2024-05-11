@@ -1,0 +1,7 @@
+public class main
+{
+public Static void main(Sting[] args)
+{
+System.out.print("HELLO, i am a student");
+}
+}
